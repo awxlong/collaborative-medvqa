@@ -26,7 +26,7 @@ The paper succintly describing the dataset and results of the competition is in:
 
 ## Data exploration
 
-You can run some of the jupyter notebooks in Notebooks/ to get familiar with the MEDIQA-M3G dataset.
+You can run some of the jupyter notebooks in `Notebooks/` to get familiar with the MEDIQA-M3G dataset.
 
 ## Preprocessing
 

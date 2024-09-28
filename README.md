@@ -24,6 +24,10 @@ The paper succintly describing the dataset and results of the competition is in:
 
 # Framework's Implementation
 
+## Data exploration
+
+You can run some of the jupyter notebooks in Notebooks/ to get familiar with the MEDIQA-M3G dataset.
+
 ## Preprocessing
 
 As a preliminary step, and for convenience, you can preprocess the dermatology images and save the feature vectors in `Features/`. You can choose your image encoder:

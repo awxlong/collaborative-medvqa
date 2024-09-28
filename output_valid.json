@@ -1,0 +1,24 @@
+[
+    {
+        "encounter_id": "ENC00852",
+        "responses": [
+            {
+                "content_es": "ilegal y aplicada en el dorso de la mano"
+            },
+            {
+                "content_es": "ilegal.\n\nThe skin is a living organism, and it is the"
+            }
+        ]
+    },
+    {
+        "encounter_id": "ENC00853",
+        "responses": [
+            {
+                "content_es": "ilegal y de una vida.\n\nI am a dermatologist"
+            },
+            {
+                "content_es": "ilegal y de una vida.\n\nAunque me h"
+            }
+        ]
+    }
+]
